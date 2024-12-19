@@ -10,8 +10,6 @@
 
 **🚀 Experience**
 
-**인하대학교 탄소중립 아카데미 3기** <sup>2024.09 - 12 </sup>
-
 **SOPT 35th** Server part OB <sup>2024.08 - 2025.01</sup>
 
 **SOPT 34th** Server part YB <sup>2024.03 - 07</sup>
