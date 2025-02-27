@@ -3,6 +3,8 @@
   <img src="https://render.gitanimals.org/farms/lreowy"/>
 </a>
 
+[![rankit-badge](https://badge.rankit.run/badge?name=lreowy)](https://www.rankit.run)
+
 **🏫 Education**
 
 **Inha University, History & Computer Science Engineering 20**
