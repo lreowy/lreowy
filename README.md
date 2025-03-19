@@ -27,17 +27,6 @@
 **GDG X GDSC devfest 2022** Staff <sup>2022.11 - 12</sup>
 <br></br>
 
-**Tech blog**
-
-<a href="https://velog.io/@lxxyxin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
- 
- **Programming Languages**
- 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-
-**Studying**
-
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
 
 
 **Problem Solving**
